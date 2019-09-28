@@ -1,4 +1,9 @@
 # Don-t-Touch-That-Thing
-Ancient project from 2015 or so. It's a small dumb game where two players control two shiba inus and try to collect as many circles as possible, while also trying to not touch the thing in the middle. Made entirely with Java, compiled in Eclipse.<br/>
+Java game project from 2015, made entirely in native Java. In this two-player game, you and another player compete to collect the most circles, utilizing power-ups to gain an advantage over the other. The level changes every 60 seconds, and the game ends after the 6th level.
 
-Includes both the source files as well as an executable jar file.
+This repo contains both the compiled .jar to run the game, as well as the source code. It was compiled in Eclipse.
+
+How to use:
+1. [Install Java](https://www.java.com/en/download/)
+2. Clone this repo to some directory on your computer
+3. Run "Launch.bat"
